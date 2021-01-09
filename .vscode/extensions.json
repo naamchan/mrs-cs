@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "adrianwilczynski.add-reference",
+    "formulahendry.dotnet-test-explorer",
+    "ms-dotnettools.csharp",
+    "jmrog.vscode-nuget-package-manager"
+  ]
+}
